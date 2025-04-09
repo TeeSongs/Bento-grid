@@ -224,7 +224,7 @@ font-size: 20px;
   .box8 { grid-area: box8; }
 
 .box4{
-    padding:35px;
+    padding:25px;
     height: 400px;
 
 }
@@ -376,8 +376,8 @@ font-size: 20px;
     }
     
 .box4{
-    padding:15px;
-    height: 300px;
+    padding:10px;
+    height: 350px;
 }
 
 .box4 .schedule{
@@ -395,7 +395,7 @@ font-size: 20px;
 }
 
 .box5 img{
-    width: 250px;
+    width: 200px;
     height: 200px;
 }
 .box5 p{
